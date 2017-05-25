@@ -1,11 +1,10 @@
 img {
   float: left;
-  width: 50%;
+  padding: 10px;
 }
 
 .pic{
   float: right;
-  width: 50%;
 }
 
 .well{
@@ -15,6 +14,4 @@ img {
 }
 
 .pic1 {
-  width: 50%;
-  max-height: none;
 }
